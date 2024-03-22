@@ -3,7 +3,8 @@ body {
 }
 
 #bluebox {
-    background-color: #4072ED;    
+    background-color: #4072ED;
+    text-align: center;
     height: 80px;
     width: 240px;
     margin-bottom: 0px;
@@ -86,7 +87,7 @@ body {
     margin-left: 141px;
     position: absolute;
     z-index: 3;
-    top: 177px;
+    top: 157px;
     background-color: #3e75f9;
     border: none;
     color: white;
