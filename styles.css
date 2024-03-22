@@ -30,7 +30,7 @@ body {
 #whitebox {
     background-color: white;
     margin-top: -60px; 
-    height: 180px;
+    height: 189px;
     width: 240px;
     position: relative; 
     z-index: 0; 
@@ -80,14 +80,14 @@ body {
 #social {
     margin-left: 25px;
     position: absolute;
-    bottom: 552px;
+    bottom: 532px;
     
 }
 #sub {
     margin-left: 141px;
     position: absolute;
     z-index: 3;
-    top: 177px;
+    top: 188px;
     background-color: #3e75f9;
     border: none;
     color: white;
